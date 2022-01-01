@@ -1,1 +1,1 @@
-location.href = " www.imgur.com/a/G6rU8";
+location.href = "https://www.imgur.com/a/G6rU8";
