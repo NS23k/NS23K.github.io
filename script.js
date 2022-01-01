@@ -1,1 +1,1 @@
-location.href = "https://www.imgur.com/a/G6rU8";
+location.href = "http://bitly.com/98K8eH";
