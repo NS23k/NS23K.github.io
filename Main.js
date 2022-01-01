@@ -1,1 +1,1 @@
-Console.log('amogus')
+console.log('amogus')
