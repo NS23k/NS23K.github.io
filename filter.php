@@ -4,7 +4,7 @@
 $furl=trim($_GET["furl"]);
 $raw = file_get_contents($furl);
 
-$mydomain="http://www.yourdomainhere.com/";
+$mydomain="http://NS23K.github.io/";
 
 //Kill anoying popups.
 $raw=str_replace("alert(","isNull(",$raw);
